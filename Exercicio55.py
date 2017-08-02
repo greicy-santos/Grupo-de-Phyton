@@ -1,0 +1,2 @@
+#A tupla é parecida com uma lista, onde vc consegue acessar os elementos usando o indice, assim como é feito na lista. No caso 
+# é possível garantir que seu tamanho não mude, colocando as dimensões em uma tupla.
