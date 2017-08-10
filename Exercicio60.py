@@ -1,0 +1,2 @@
+#Identaçao é o jeito de formatar o código de modo que ele fique legível a qualquer pessoa que venha a ler o código....o python inclusive considera erro de compilaçao
+#quando a formataçao do código é feita de maneira inadequada.
