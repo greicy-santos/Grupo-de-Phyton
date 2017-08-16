@@ -1,0 +1,2 @@
+#Dicionários sao coleçoes que trabalham com chaves, das quais posso armazenar valores e acessá-los através da sua chave. Diferente das lista os dicionários
+#não são sequenciais, porque eles não são indexados, eu não acesso eles diretamente, eu só consigo acessá-los usando a chave.
